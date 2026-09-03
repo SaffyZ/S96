@@ -21,7 +21,7 @@ The current source deliberately uses **general hardware emulation fixes only**. 
 | `E` | R2 |
 | `Enter` | Start |
 | `Right Shift` | Select |
-| `W` / `S` | **Unmapped** |
+| `W` / `S` | **Unmapped** (Reserved for future) |
 
 The keyboard mapping is applied from both SDL's held-key state and event-latched transitions so short presses are not lost between host-frame samples.
 
