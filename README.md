@@ -1,7 +1,7 @@
 hallo this is PS96 or PlaySaffy 96, basically a PS1 emulator in C++20, this is an early version which will be published because people wouldn't stop bugging me
 not much works on it
 it has a Dashboard that was made by chatgpt so credits to him ig
-Claude tried making it before him and messed up a ton soo some stuff might be buggy... I don't know if you'll even run games on this but yeah
+Claude tried making it before him and messed up a ton soo some stuff might be buggy and comments might be weird, i dont know if you'll even run games on this but yeah
 the internet taught me how a ton of people might be mean while a ton might be wholesome
 that being said i am never publishing the latest PS96
 or ever publishing my work again
